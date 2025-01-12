@@ -11,4 +11,4 @@ informations importantes:
 1)Pour compiler les modules WinBGlm et Affichages : allez dans les menus de votre compilateur (Visual Studio) : Propriétés du projet -> menu de gauche -> Paramètres avancés.
 Dans Jeu de caractères, choisissez Jeu de caractères multioctets (MBCS) -> Appliquer.
 
-2)Lors de la compilation, assurez-vous d'avoir un affichage écran réglé à 100 % et que votre fenêtre de sortie soit en plein écran.
+2)Lors de la compilation, assurez-vous d'avoir un affichage écran réglé à 100 % et que votre fenêtre de sortie soit en plein écran,lorsque vous déboguez.
