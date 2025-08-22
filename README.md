@@ -12,3 +12,7 @@ informations importantes:
 Dans Jeu de caractères, choisissez Jeu de caractères multioctets (MBCS) -> Appliquer.
 
 2)Lors de la compilation, assurez-vous d'avoir un affichage écran réglé à 100 % et que votre fenêtre de sortie soit en plein écran,lorsque vous déboguez.
+
+Voir vidéo de démo : https://urls.fr/tpzA0J 
+
+<img width="1317" height="766" alt="image" src="https://github.com/user-attachments/assets/562df167-bb1e-47ff-b906-45f669196f97" />
